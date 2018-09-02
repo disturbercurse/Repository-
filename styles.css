@@ -1,0 +1,152 @@
+*
+{
+	margin: 0;
+	padding: 0;
+		
+}
+
+.navbar
+{
+	position: relative;
+	padding: 10px;
+	
+}
+
+.nav>li>a
+{
+	color: rgba(255,255,255,.9) !important;
+font-size: 12px;
+font-weight: 600;
+letter-spacing: .09375rem;
+position: relative;
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+}
+.navbar-brand
+{
+	background-image: url(img/logo-text-white.png);
+	
+}
+#flod
+{
+	background-image: url(img/bg-intro.jpg);
+	width:100%;
+	height:680px;
+	background-size: cover;
+	background-position: center;
+	
+}
+.dog
+{
+	color:white;
+	letter-spacing: .125rem;
+	font-weight: 600 ;
+	font-family: Montserrat,sans-serif ;
+	text-transform: uppercase;
+	margin-top: 20px;
+	padding-bottom: 35px;
+}
+.cat
+{
+	width:3%;
+	margin-left: 490px;
+    border-width: thick;
+
+}
+.cats
+{
+	color:white;
+	letter-spacing:.125rem;
+	font-weight: 600;
+	font-family: Montserrat,sans-serif;
+	text-transform: uppercase;
+	font-size:5	rem;
+	line-height:3.125rem;
+    text-align: center;	
+}
+.rekt
+{
+	text-align: center;
+	color: white;
+	letter-spacing: 4px;
+	text-transform: uppercase;
+	font-family: Montserrat,sans-serif;
+}
+.btn
+{
+	background:#f9461d;
+	cursor: pointer;
+	color:white;
+	margin-left: 440px;
+	font-weight: 600;
+	font-family: Montserrat,sans-serif;
+	padding: 1.125rem 1.875rem;
+	border: none;
+	letter-spacing: .093rem;		
+}
+.run
+{
+	text-align: center;
+	padding:80px;
+	letter-spacing: 1.5px;
+	font-family: Montserrat,sans-serif;
+	color:#000;
+	font-size:18px;
+}
+#root
+{
+	position: relative;
+}
+.ee
+{
+	width: 80px;
+	border-width: medium;
+	position: absolute;
+	bottom:50px;
+	left:450px;
+}
+#never
+{
+	position: relative;
+}
+.r
+{
+	text-align: center;
+	font-size:50px;
+	text-transform: uppercase;
+	letter-spacing:2.5	px;
+	font-weight: 600;	
+}
+.animal
+{
+	text-align: center;
+	font-size:25px;
+	font-family: Montserrat,sans-serif;
+	text-transform: uppercase;
+	padding-bottom: 15px;	
+}
+.sh
+{
+	width: 80px;	
+	border-width: medium;
+	position: absolute;
+		left:460px;
+	
+}
+.rock
+{
+	text-align: right;
+	padding: 60px;
+	font-size:20px;
+	line-height:30px;
+	font-family: Montserrat,sans-serif;
+}
+.now .btn
+{
+	position: absolute;
+	left:100px;
+	bottom:15px;
+	font-family:Montserrat,sans-serif;
+	font-weight: 600;
+	letter-spacing:2px;
+}
